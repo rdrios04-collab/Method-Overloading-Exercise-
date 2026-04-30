@@ -34,7 +34,7 @@
         {
             Console.WriteLine(Add(1, 1, true));
             Console.WriteLine(Add(1,2));
-            
+            Console.WriteLine(decimal.Add(2.3m,1.2m));
 
         }
     }
